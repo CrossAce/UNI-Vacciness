@@ -8,3 +8,15 @@ c:\users\vick\documents\visual studio 2015\Projects\ST\ST\obj\Debug\ST.csproj.Ge
 c:\users\vick\documents\visual studio 2015\Projects\ST\ST\obj\Debug\ST.exe
 c:\users\vick\documents\visual studio 2015\Projects\ST\ST\obj\Debug\ST.pdb
 c:\users\vick\documents\visual studio 2015\Projects\ST\ST\obj\Debug\ST.PersonalData.resources
+C:\Users\Nikolay\Downloads\UNI-Vacciness-master\UNI-Vacciness-master\ST\ST\bin\Debug\ST.exe.config
+C:\Users\Nikolay\Downloads\UNI-Vacciness-master\UNI-Vacciness-master\ST\ST\bin\Debug\ST.exe
+C:\Users\Nikolay\Downloads\UNI-Vacciness-master\UNI-Vacciness-master\ST\ST\bin\Debug\ST.pdb
+C:\Users\Nikolay\Downloads\UNI-Vacciness-master\UNI-Vacciness-master\ST\ST\obj\Debug\ST.csprojAssemblyReference.cache
+C:\Users\Nikolay\Downloads\UNI-Vacciness-master\UNI-Vacciness-master\ST\ST\obj\Debug\ST.Form1.resources
+C:\Users\Nikolay\Downloads\UNI-Vacciness-master\UNI-Vacciness-master\ST\ST\obj\Debug\ST.PersonalData.resources
+C:\Users\Nikolay\Downloads\UNI-Vacciness-master\UNI-Vacciness-master\ST\ST\obj\Debug\ST.Properties.Resources.resources
+C:\Users\Nikolay\Downloads\UNI-Vacciness-master\UNI-Vacciness-master\ST\ST\obj\Debug\ST.csproj.GenerateResource.cache
+C:\Users\Nikolay\Downloads\UNI-Vacciness-master\UNI-Vacciness-master\ST\ST\obj\Debug\ST.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Downloads\UNI-Vacciness-master\UNI-Vacciness-master\ST\ST\obj\Debug\ST.exe
+C:\Users\Nikolay\Downloads\UNI-Vacciness-master\UNI-Vacciness-master\ST\ST\obj\Debug\ST.pdb
+C:\Users\Nikolay\Downloads\UNI-Vacciness-master\UNI-Vacciness-master\ST\ST\obj\Debug\ST.Vaccines.resources

@@ -46,7 +46,8 @@ namespace ST
 
         private void LogIn()
         {
-
+            PersonalData personalData = new PersonalData();
+            personalData.Show();
         }
     }
 }
