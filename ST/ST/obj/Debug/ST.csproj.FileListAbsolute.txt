@@ -1,0 +1,10 @@
+c:\users\vick\documents\visual studio 2015\Projects\ST\ST\bin\Debug\ST.exe.config
+c:\users\vick\documents\visual studio 2015\Projects\ST\ST\bin\Debug\ST.exe
+c:\users\vick\documents\visual studio 2015\Projects\ST\ST\bin\Debug\ST.pdb
+c:\users\vick\documents\visual studio 2015\Projects\ST\ST\obj\Debug\ST.csprojResolveAssemblyReference.cache
+c:\users\vick\documents\visual studio 2015\Projects\ST\ST\obj\Debug\ST.Form1.resources
+c:\users\vick\documents\visual studio 2015\Projects\ST\ST\obj\Debug\ST.Properties.Resources.resources
+c:\users\vick\documents\visual studio 2015\Projects\ST\ST\obj\Debug\ST.csproj.GenerateResource.Cache
+c:\users\vick\documents\visual studio 2015\Projects\ST\ST\obj\Debug\ST.exe
+c:\users\vick\documents\visual studio 2015\Projects\ST\ST\obj\Debug\ST.pdb
+c:\users\vick\documents\visual studio 2015\Projects\ST\ST\obj\Debug\ST.PersonalData.resources
