@@ -7,12 +7,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Text.RegularExpressions;
 
 namespace ST
 {
     public partial class PersonalData : Form
     {
-        
+        private const string First_LastName_pattern = "^[А-Я]{1}[а-я]+";
+        private const string EGN_pattern = "^[0-9]{10}";
+        private const string errorMessage = "Invalid Data Entered. Please return and correct it!";
 
         public PersonalData()
         {
@@ -67,14 +70,31 @@ namespace ST
                 radioButton2.Checked = true;
         }
 
-        private void PersonalData_Load(object sender, EventArgs e)
-        {
-
-        }
-
         private void button1_Click(object sender, EventArgs e)
         {
+            bool hasError = true;
+            Regex reg = new Regex(First_LastName_pattern);
+            hasError = !(reg.IsMatch(textBox1.Text) && reg.IsMatch(textBox2.Text));
 
+            reg = new Regex(EGN_pattern);
+            hasError = !(reg.IsMatch(textBox3.Text));
+
+            if(hasError)
+            {
+                MessageBox.Show(errorMessage,"Error",MessageBoxButtons.OKCancel,MessageBoxIcon.Error);
+            }
+            else
+            {
+                MessageBox.Show("Data Correct - Proceeding to Vaccine List!","Success",MessageBoxButtons.OK,MessageBoxIcon.Information);
+                Vaccines vac = new Vaccines()
+                {
+                    Years = int.Parse(textBox4.Text),
+                    Data = new string[] { textBox1.Text, textBox2.Text, textBox3.Text, textBox4.Text, dateTimePicker1.Value.ToString() }
+                };
+
+                vac.Show();
+            }
+         
         }
     }
 }

@@ -20,3 +20,15 @@ C:\Users\Nikolay\Downloads\UNI-Vacciness-master\UNI-Vacciness-master\ST\ST\obj\D
 C:\Users\Nikolay\Downloads\UNI-Vacciness-master\UNI-Vacciness-master\ST\ST\obj\Debug\ST.exe
 C:\Users\Nikolay\Downloads\UNI-Vacciness-master\UNI-Vacciness-master\ST\ST\obj\Debug\ST.pdb
 C:\Users\Nikolay\Downloads\UNI-Vacciness-master\UNI-Vacciness-master\ST\ST\obj\Debug\ST.Vaccines.resources
+D:\GitHub\UNI-Vacciness\ST\ST\bin\Debug\ST.exe.config
+D:\GitHub\UNI-Vacciness\ST\ST\bin\Debug\ST.exe
+D:\GitHub\UNI-Vacciness\ST\ST\bin\Debug\ST.pdb
+D:\GitHub\UNI-Vacciness\ST\ST\obj\Debug\ST.csprojAssemblyReference.cache
+D:\GitHub\UNI-Vacciness\ST\ST\obj\Debug\ST.Form1.resources
+D:\GitHub\UNI-Vacciness\ST\ST\obj\Debug\ST.PersonalData.resources
+D:\GitHub\UNI-Vacciness\ST\ST\obj\Debug\ST.Properties.Resources.resources
+D:\GitHub\UNI-Vacciness\ST\ST\obj\Debug\ST.Vaccines.resources
+D:\GitHub\UNI-Vacciness\ST\ST\obj\Debug\ST.csproj.GenerateResource.cache
+D:\GitHub\UNI-Vacciness\ST\ST\obj\Debug\ST.csproj.CoreCompileInputs.cache
+D:\GitHub\UNI-Vacciness\ST\ST\obj\Debug\ST.exe
+D:\GitHub\UNI-Vacciness\ST\ST\obj\Debug\ST.pdb
