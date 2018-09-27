@@ -20,9 +20,7 @@ namespace ST
         {
             InitializeComponent();
         }
-
         
-
         private void Vaccines_Load(object sender, EventArgs e)
         {
             if (Years > 0 && Years < 7) radioButton1.Checked = true;
@@ -33,15 +31,26 @@ namespace ST
 
         private void button1_Click(object sender, EventArgs e)
         {
-            var path = Application.StartupPath;
-            using (var writer = new System.IO.StreamWriter(path, true))
+            if(saveFileDialog1.ShowDialog() == DialogResult.OK)
             {
-                foreach(var s in Data)
+                using (var writer = new System.IO.StreamWriter(saveFileDialog1.FileName, true))
                 {
-                    writer.WriteLine(s);
+                    try
+                    {
+                        string result = string.Join(" ; ", Data);
+                        writer.WriteLine(result);
+
+                    }
+                    catch(Exception ex)
+                    {
+                        MessageBox.Show($"Error in saving!\n{ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        return;
+                    }
+                   
                 }
-                writer.WriteLine(Environment.NewLine);
+                MessageBox.Show("Data saved successfuly.","Saved",MessageBoxButtons.OK,MessageBoxIcon.Information);
             }
+           
         }
     }
 }
