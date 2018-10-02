@@ -24,9 +24,9 @@ namespace ST
 
         private void button1_Click(object sender, EventArgs e)
         {
-            LogIn(); // for testing
+           // LogIn(); // for testing
             
-            /*bool hasError = true;
+            bool hasError = true;
             if(uname.Text.Length > 4 && pword.Text.Length > 5)
             {
                 hasError = !(ValidateRegex(_patternUname,uname.Text) && pword.Text.Length < 9);
@@ -36,7 +36,7 @@ namespace ST
             else
             {
                 LogIn();
-            }*/
+            }
         }
 
         private bool ValidateRegex(string pattern, string text)

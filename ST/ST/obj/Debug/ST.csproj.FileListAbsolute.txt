@@ -32,3 +32,14 @@ D:\GitHub\UNI-Vacciness\ST\ST\obj\Debug\ST.csproj.GenerateResource.cache
 D:\GitHub\UNI-Vacciness\ST\ST\obj\Debug\ST.csproj.CoreCompileInputs.cache
 D:\GitHub\UNI-Vacciness\ST\ST\obj\Debug\ST.exe
 D:\GitHub\UNI-Vacciness\ST\ST\obj\Debug\ST.pdb
+E:\GitHub\Vaccines\UNI-Vacciness\ST\ST\bin\Debug\ST.exe.config
+E:\GitHub\Vaccines\UNI-Vacciness\ST\ST\obj\Debug\ST.exe
+E:\GitHub\Vaccines\UNI-Vacciness\ST\ST\obj\Debug\ST.pdb
+E:\GitHub\Vaccines\UNI-Vacciness\ST\ST\bin\Debug\ST.exe
+E:\GitHub\Vaccines\UNI-Vacciness\ST\ST\bin\Debug\ST.pdb
+E:\GitHub\Vaccines\UNI-Vacciness\ST\ST\obj\Debug\ST.csprojResolveAssemblyReference.cache
+E:\GitHub\Vaccines\UNI-Vacciness\ST\ST\obj\Debug\ST.Form1.resources
+E:\GitHub\Vaccines\UNI-Vacciness\ST\ST\obj\Debug\ST.PersonalData.resources
+E:\GitHub\Vaccines\UNI-Vacciness\ST\ST\obj\Debug\ST.Properties.Resources.resources
+E:\GitHub\Vaccines\UNI-Vacciness\ST\ST\obj\Debug\ST.Vaccines.resources
+E:\GitHub\Vaccines\UNI-Vacciness\ST\ST\obj\Debug\ST.csproj.GenerateResource.Cache
